@@ -4,6 +4,17 @@
 
 * The Decision Tree.py contains a commented-out section for generating a visualization of the tree. The generated tree is very complex, so it has been commented out. If you need modifications, please contact me for further optimization.
 
+------ Requirements ------
+
+*Python 3.10.8
+
+*Libraries:
+
+pandas
+scikit-learn
+matplotlib
+numpy
+
 ------ Parameters and Pipeline ------
 
 Decision Tree Regressor Model: DecisionTreeRegressor() from scikit-learn.
