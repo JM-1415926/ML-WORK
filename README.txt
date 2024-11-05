@@ -4,6 +4,8 @@
 
 * The Decision Tree.py contains a commented-out section for generating a visualization of the tree. The generated tree is very complex, so it has been commented out. If you need modifications, please contact me for further optimization.
 
+* The zip file containing all the files is available for easy download.
+
 ------ Requirements ------
 
 *Python 3.10.8
